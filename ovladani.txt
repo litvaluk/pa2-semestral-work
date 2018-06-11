@@ -1,0 +1,26 @@
+--- Mazed ---
+
+Ovládání:
+
+  Menu:
+    výběr položky               - šipky nahoru/dolů
+    zvýšení/snížení položky     - šipky doleva/doprava
+    potvrzení položky           - enter/mezerník
+    smazání uložené hry         - delete/backspace
+    zpět/konec                  - escape
+
+  Hra:
+    pohyb hráče                 - šipky
+    potvrzení                   - mezerník
+    přechod do další místnosti  - mezerník
+    otevření truhly             - mezerník
+    zvýšení strength            - s
+    zvýšení defense             - d
+    zvýšení vitality            - v
+    mód inventáře               - b
+
+    Inventář:
+      výběr položky             - šipky
+      použití předmětu          - 1 až 5 nebo mezerník
+      zničení předmětu          - delete/backspace
+      opuštění módu inventáře   - escape

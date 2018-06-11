@@ -1,0 +1,18 @@
+w:Sword:3
+w:Axe:3
+w:Mace:3
+w:Hammer:2
+w:Dagger:1
+a:Cloth armor:1
+a:Leather armor:2
+a:Mail armor:3
+a:Plate armor:4
+p:Lesser potion:25
+p:Lesser potion:25
+p:Lesser potion:25
+p:Potion:50
+p:Potion:50
+p:Potion:50
+p:Greater potion:100
+p:Greater potion:100
+p:Greater potion:100
